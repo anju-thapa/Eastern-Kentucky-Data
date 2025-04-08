@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<Body_xle>
+    <File_info>
+        <Company></Company>
+        <LICENCE></LICENCE>
+        <Date>2025/02/07</Date>
+        <Time>14:41:50</Time>
+        <FileName></FileName>
+        <Created_by>Version 4.6.3</Created_by>
+        <Downloaded_by></Downloaded_by>
+    </File_info>
+    <Instrument_info>
+        <Instrument_type>L5_LTC</Instrument_type>
+        <Model_number>M5/C80</Model_number>
+        <Instrument_state>Stopped</Instrument_state>
+        <Serial_number>1090587</Serial_number>
+        <Battery_voltage>0.00000</Battery_voltage>
+        <Battery_charge>0.00</Battery_charge>
+        <Channel>3</Channel>
+        <Firmware>1.005</Firmware>
+    </Instrument_info>
+    <Instrument_info_data_header>
+        <Project_ID></Project_ID>
+        <Location></Location>
+        <Latitude>0.000</Latitude>
+        <Longtitude>0.000</Longtitude>
+        <Sample_rate>90000</Sample_rate>
+        <Sample_mode>0</Sample_mode>
+        <!--Linear-->
+        <Memory_mode>Slate</Memory_mode>
+        <Event_ch>1</Event_ch>
+        <Event_threshold>0.000000</Event_threshold>
+        <Schedule />
+        <Start_time>1970/01/01 00:00:00</Start_time>
+        <Stop_time>2024/07/14 16:09:02</Stop_time>
+        <Num_log>0</Num_log>
+    </Instrument_info_data_header>
+    <Ch1_data_header>
+        <Identification>LEVEL</Identification>
+        <Unit>m</Unit>
+        <Parameters>
+            <Offset Val="0.0000" Unit="m" />
+        </Parameters>
+    </Ch1_data_header>
+    <Ch2_data_header>
+        <Identification>TEMPERATURE</Identification>
+        <Unit>°C</Unit>
+        <Parameters />
+    </Ch2_data_header>
+    <Ch3_data_header>
+        <Identification>CONDUCTIVITY</Identification>
+        <Unit>µS/cm</Unit>
+        <Parameters />
+    </Ch3_data_header>
+    <Data />
+</Body_xle>
